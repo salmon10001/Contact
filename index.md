@@ -1,11 +1,11 @@
-## Herculean Group
+## Title
 
 ### Contact Information: 
 
-**Telephone:** +1 (416) 770 8092
+**Telephone:** 
 
 
-**Email:** info@herculeangroup.com 
+**Email:** 
 
 
-**Address:** 80 Atlantic Avenue, Toronto, Canada, M6K 1X9
+**Address:** 
